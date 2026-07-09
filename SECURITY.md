@@ -20,7 +20,7 @@ The bingen project supports GitHub [Private vulnerability reporting](https://doc
 
 Please include a thorough description of the issue, the steps you took to reproduce it, affected versions, and, if known, any mitigations. The maintainers will help diagnose the severity of the issue and determine how to address it. We aim to acknowledge new reports within 3 business days. Issues deemed to be non-critical will be filed as GitHub issues. Critical issues will receive immediate attention and be fixed as quickly as possible.
 
-## Disclosure policy
+## Disclosure Policy
 
 For known public security vulnerabilities, we will disclose the vulnerability as soon as possible after receiving the report. Vulnerabilities discovered for the first time will be disclosed in accordance with the following process:
 
