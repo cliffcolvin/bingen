@@ -6,13 +6,15 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
-  pull-requests: write
+  contents: read
 
 jobs:
   check-and-update-go:
     name: Check and update Go version
     runs-on: ubuntu-latest
+    permissions:
+      contents: write        # commit the go.mod/go.sum version bump
+      pull-requests: write    # open the automated update PR
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6.0.2
