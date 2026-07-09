@@ -24,7 +24,7 @@ Please include a thorough description of the issue, the steps you took to reprod
 
 For known public security vulnerabilities, we will disclose the vulnerability as soon as possible after receiving the report. Vulnerabilities discovered for the first time will be disclosed in accordance with the following process:
 
-1. The received security vulnerability report is handed to the maintainers for follow-up coordination and repair work.
+1. Each security vulnerability report is triaged by the maintainers for follow-up coordination and remediation work.
 2. After the vulnerability is confirmed, we create a draft GitHub Security Advisory that lists the details of the vulnerability.
 3. Related personnel are invited to discuss the fix.
 4. A temporary private fork is used to collaborate on a fix.
