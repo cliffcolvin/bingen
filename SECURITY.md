@@ -16,7 +16,7 @@ bingen provides security updates for the most recent release on GitHub. Security
 
 ## Reporting a Vulnerability
 
-The bingen project has enabled [Private vulnerability reporting](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing/privately-reporting-a-security-vulnerability), which allows for direct, confidential reporting of security issues to the maintainers. To report a vulnerability, open a private report from the **Security** tab of the [bingen repository](https://github.com/opencost/bingen/security/advisories/new).
+The bingen project supports GitHub [Private vulnerability reporting](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing/privately-reporting-a-security-vulnerability), which allows for direct, confidential reporting of security issues to the maintainers. If private reporting is enabled, open a private report from the **Security** tab of the [bingen repository](https://github.com/opencost/bingen/security/advisories/new).
 
 Please include a thorough description of the issue, the steps you took to reproduce it, affected versions, and, if known, any mitigations. The maintainers will help diagnose the severity of the issue and determine how to address it. We aim to acknowledge new reports within 3 business days. Issues deemed to be non-critical will be filed as GitHub issues. Critical issues will receive immediate attention and be fixed as quickly as possible.
 
